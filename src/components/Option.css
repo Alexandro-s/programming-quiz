@@ -1,0 +1,38 @@
+.option {
+    background-color:#F5F3EA
+
+    ;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    opacity: .8;
+    transition: 0.4s;
+}
+
+.option:hover {
+    opacity: 1;
+}
+
+#options-container .option p {
+    margin-bottom: 0;
+    text-transform: capitalize;
+   
+}
+
+.correct {
+    background-color: #0bfc03;
+    font-weight: bold;
+}
+
+.wrong {
+    background-color: brown;
+    opacity: 0.4;
+}
+
+.hide {
+    display: none;
+}
+
+
+/* Ajuste de margim do p  */

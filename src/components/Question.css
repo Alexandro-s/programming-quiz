@@ -1,0 +1,44 @@
+#question {
+text-align: center;
+max-width: 500px;
+min-width: 400px;
+min-height: 400px;
+background-color: #E9D8A6;
+border-radius: 1rem;
+padding: 2rem;
+}
+
+#question h2,
+#question p {
+   margin-bottom:1rem;
+
+}
+
+#question p {
+   color:#B15E3C  ;
+  
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+#question img {
+width: 15rem;
+height: auto;
+    
+}
+
+#question button {
+   margin: 0.5rem;
+}
+#question .p-tip {
+
+color: black;
+background-color: #B15E3C;
+border-radius: 0.5rem;
+}
+

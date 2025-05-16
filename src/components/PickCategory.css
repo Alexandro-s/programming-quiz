@@ -1,0 +1,47 @@
+#category {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+
+    
+  }
+
+#category h2,
+#category p {
+   margin-bottom: 1rem;
+   
+}
+
+#category p {
+   color:#B15E3C ;
+}
+#category img {
+   margin-top: 3rem;
+   max-height: 55vh; 
+   height: auto;
+   width: auto;
+}
+
+
+#category .btn-choose {
+   display: flex;
+   gap: 1rem;
+   margin: 2rem;
+   justify-content: center;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Finalizando escolha da categoria  e escolhendo a maldita imagem*/
